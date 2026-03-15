@@ -2,6 +2,17 @@
 
 An AI tool that improves landing page copy to increase marketing conversion rates.
 
+## 🔗 Live Demo
+https://ai-landing-page-conversion.streamlit.app/
+
+## App Preview
+
+![App Demo](images/landing_page
+.png)
+
+## 🔗 Live Demo
+https://ai-landing-page-conversion.streamlit.app/
+
 ## Features
 
 - Generate optimized headlines
